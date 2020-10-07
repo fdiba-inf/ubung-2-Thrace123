@@ -2,7 +2,7 @@ package exercise2;
 
 import java.util.Scanner;
 
-public class Circle {
+public class Circle { 
 public static void main(String[] args) {
 System.out.println("r:");
         Scanner input = new Scanner(System.in);
